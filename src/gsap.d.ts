@@ -1,4 +1,4 @@
-declare module 'gsap-trial/SplitText';
-declare module 'gsap-trial/ScrollSmoother';
-declare module 'gsap-trial/DrawSVGPlugin';
-declare module 'gsap-trial/MorphSVGPlugin';
+declare module 'gsap/SplitText';
+declare module 'gsap/ScrollSmoother';
+declare module 'gsap/DrawSVGPlugin';
+declare module 'gsap/MorphSVGPlugin';
